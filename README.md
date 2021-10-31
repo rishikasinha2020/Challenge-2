@@ -9,7 +9,8 @@ Overview of Project:
 Results: 
 
     Refer to VBA_Challenge_ 2017.png and VBA_Challenge_ 2018.png under resources folder to visiualize the stocks trend and code performance for year 2017 and 2018.
-
+    Refer to VBCode under developer tab within the VBA_Challenge.xlsm to review my refactored code.
+    
     In the year, 2017 stock for TERP had a negetive return. It does not show a good return on investment.
 
     In the year, 2018 except stocks for ENPH and RUN, all other stocks had a negetive returns. 
