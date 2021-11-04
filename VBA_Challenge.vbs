@@ -62,7 +62,7 @@ Sub AllStocksAnalysis()
             
             '3b) Check if the current row is the first row with the selected tickerIndex.
             If Cells(i, 1) <> Cells(i - 1, 1) Then
-                 tickerStartingPrices(tickerIndex) = Cells(i, 3).Value
+                 tickerStartingPrices(tickerIndex) = Cells(i, 6).Value
             End If
                 
                    
